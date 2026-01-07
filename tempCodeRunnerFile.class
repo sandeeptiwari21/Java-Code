@@ -1,0 +1,11 @@
+
+      }
+
+      if (var5 == var3) {
+         System.out.println("armstrong number");
+      } else {
+         System.out.println("Not a armstrong number");
+      }
+
+   }
+}
